@@ -1,7 +1,12 @@
 # RIBFUL
-                              
-                                     
+
+### Changelogs:                              
+-> [ChangeLog (ru)](https://github.com/winttermeow/Ribful/blob/main/Releases/ChangeLog.md)
+### Snapshot Changelogs:  
+-> [Snapshot ChangleLog (ru)](https://github.com/winttermeow/Ribful/blob/main/Releases/Snapshots%20(pre-releases)/SnapshotsChangeLog.md)
+
 wip...                                     
+
 > "Ribful" by fepomi
 ## Links
 ### [Ribful Discord](https://discord.gg/6FwRv23pwW)
