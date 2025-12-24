@@ -2,7 +2,7 @@
 
 ### `About the game`
 
-wip...
+Ribful is a platformer developed on the Unity engine, inspired by games like "Celeste" and "Super meat boy". It has several modes, including the usual platformer levels and an arena shooter with "roguelike" elements.
 
 ### `Changelogs`
 > [ChangeLog (ru)](https://github.com/winttermeow/Ribful/blob/main/Releases/ChangeLog.md)
