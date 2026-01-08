@@ -1,4 +1,4 @@
-<img src="releases/ribful.png" width="128">
+<img src="Releases/ribful.png" width="128">
 
 # RIBFUL
 
