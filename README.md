@@ -29,9 +29,9 @@ Also, for the russian-speaking part of community - [you can join our telegram ch
 
 To see which features were added or what changed in the game check the links below. *(keep in mind - they're written in russian, so you have to use some translators in order to understand something)*
 ### Changelogs for the stable builds
-[ChangeLog (ru)](https://github.com/winttermeow/Ribful/blob/main/Releases/ChangeLog.md)
+[Changelog (ru)](https://github.com/winttermeow/Ribful/blob/main/Releases/ChangeLog.md)
 ### Snapshot Changelogs
-[Snapshot ChangleLog (ru)](https://github.com/winttermeow/Ribful/blob/main/Releases/Snapshots%20(pre-releases)/SnapshotsChangeLog.md)
+[Snapshot Changelog (ru)](https://github.com/winttermeow/Ribful/blob/main/Releases/Snapshots%20(pre-releases)/SnapshotsChangeLog.md)
 
 ## 🌐 Links
 
